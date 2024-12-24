@@ -4,6 +4,12 @@ Pump Shotguns: Pickups have been massively buffed to get them on par with the M1
 
 Why?: Pump shotguns have always been very hard to use as their pickups are incredibly lackluster and their DPS isn't good enough to justify this. The M10 and Pred have always pretty much been straight upgrades. This change is to get the shotguns more in line with each other to enable more variety.
 
+All of the shotgun nerf since 2021 have been reverted.
+
+Why?: Shotguns were never overpowered and these changes just made them less fun to use. These have all been reverted to make shotguns fun to use again.
+
+All shotguns have been revered to their old sta
+
 Assault Rifles: Lion's Roar's damage has been reduced to 67, pickup and and max ammo have been reduced slightly. ROF has been reduced to 800.
 
 Why?: The Lion's Roar was very overtuned by Overkill when they buffed it, this change is to get it more in line with other weapons in the class, rather than being objectively better. It can still hit 2 shot heavy with a compensator so we believe this gives it a nice niche
