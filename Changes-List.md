@@ -8,6 +8,10 @@ All of the shotgun nerf since 2021 have been reverted (minus the dragon's breath
 
 Why?: Shotguns were never overpowered and these changes just made them less fun to use. These have all been reverted to make shotguns fun to use again.
 
+IZHMA: Taktika Rail Cover has had damage bonus removed and has been given a +8 stability bonus instead.
+
+Why?: The IZHMA being a one shotting machine makes it stupidly overpowered, especially with the DRF changes. It basically never runs out of ammo and slays everything. We also plan to change the VD-12 in the future for the same reason. 
+
 Assault Rifles: Lion's Roar's damage has been reduced to 67, pickup and and max ammo have been reduced slightly. ROF has been reduced to 800.
 
 Why?: The Lion's Roar was very overtuned by Overkill when they buffed it, this change is to get it more in line with other weapons in the class, rather than being objectively better. It can still hit 2 shot heavy with a compensator so we believe this gives it a nice niche
