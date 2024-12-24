@@ -12,8 +12,8 @@ Pistols: High damage pistols have been massively reworked, the pistols have had 
 
 Why: This change was done to give pistols more practical use as sidearms while still being useable in dedicated pistol builds, They can now be used as heavy one tapping side arms. Their ROFs have been reduced so that they can't be spammed as hard, and their mag size and ammo counts have been massively reduced. Their pickups are also fairly implemented so you still need to aim well to maintain ammo.
 
-Snipers: 168 firerate has been buffed to 180.
-Why?: This is to compensate for the graze changes in this mod. It keeps DPS higher without making them too strong.
+Snipers: 168 firerate has been buffed to 180. Lebensauger has been changed to be a middle ground between Contractor and Grom.
+Why?: This is to compensate for the graze changes in this mod. It keeps DPS higher without making them too strong. Lebensauger has been set to be in the middle of the grom and contractor instead of being an updgrade to either of them.
 
 # Skills
 
