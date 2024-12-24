@@ -25,3 +25,7 @@ Why?: Graze is an incredibly strong skill as it can wipe out entire rows of cops
 Ammo Specialist tree: Extra Lead is now tier 2, Fully Loaded is now tier 3 and Bulletstorm is now tier 4.
 
 Why?: Bulletstorm is far too powerful for a tier 2 skill, it gives you minutes of infinite ammo for practically nothing. We believe it fits much better as the tier 4 of the tree. Extra Lead has been placed at tier 2 as we believe it is arguably the least powerful skill in the tree and that it works well as the tier 2. Fully Loaded works incredibly well as the tier 3 skill. It gives you a nice boost to pick up and it helps with a lot of loadouts such as DMRs.
+
+DRF has been completely removed.
+
+Why?: The changes overkill made with it added were completely unnecessary and the game is better off without it. We may go back to it in the future to see if we can do something interesting with it. As of now, we have decided to completely remove it.
