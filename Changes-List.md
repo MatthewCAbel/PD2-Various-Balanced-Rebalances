@@ -12,6 +12,9 @@ Pistols: High damage pistols have been massively reworked, the pistols have had 
 
 Why: This change was done to give pistols more practical use as sidearms while still being useable in dedicated pistol builds, They can now be used as heavy one tapping side arms. Their ROFs have been reduced so that they can't be spammed as hard, and their mag size and ammo counts have been massively reduced. Their pickups are also fairly implemented so you still need to aim well to maintain ammo.
 
+Snipers: 168 firerate has been buffed to 180.
+Why?: This is to compensate for the graze changes in this mod. It keeps DPS higher without making them too strong.
+
 # Skills
 
 Graze: Damage on ace skill has been reduced to 75%
