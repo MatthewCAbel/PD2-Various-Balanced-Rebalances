@@ -26,6 +26,10 @@ Why?: The changes overkill made with it added were completely unnecessary and th
 
 # Skills
 
+Confident and Stockholm Syndrome have switched spots.
+
+Why?: Two converts are incredibly strong for a tier 2 skill and stockholm syndrome isn't so good in comparison. This changes them around to make two converts harder to obtain to make up for the huge amount of targetting they soak up.
+
 Graze: Damage on ace skill has been reduced to 75%
 
 Why?: Graze is an incredibly strong skill as it can wipe out entire rows of cops with a single click. This skill is to reduce the power it has by making it so you need to effectively prioritize targets or shoot multiple times to kill groups. It will also still provide stagger when hitting so it can still be used effectively with this change. 
