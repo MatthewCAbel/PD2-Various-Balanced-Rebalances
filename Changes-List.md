@@ -2,7 +2,7 @@
 
 Pump Shotguns: Pickups have been massively buffed to get them on par with the M1014 and Predator.
 
-Why?: Pump shotguns have always been very hard to use as their pickups are incredibly lackluster and their DPS isn't good enough to justify this. The M10 and Pred have always pretty much been straight upgrades. This change is to get the shotguns more in line with each other to enable more variety when running shotguns.
+Why?: Pump shotguns have always been very hard to use as their pickups are incredibly lackluster and their DPS isn't good enough to justify this. The M10 and Pred have always pretty much been straight upgrades. This change is to get the shotguns more in line with each other to enable more variety.
 
 Assault Rifles: Lion's Roar's damage has been reduced to 67, pickup and and max ammo have been reduced slightly. ROF has been reduced to 800.
 
