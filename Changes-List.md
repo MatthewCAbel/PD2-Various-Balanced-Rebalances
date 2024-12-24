@@ -8,7 +8,7 @@ All of the shotgun nerf since 2021 have been reverted (minus the dragon's breath
 
 Why?: Shotguns were never overpowered and these changes just made them less fun to use. These have all been reverted to make shotguns fun to use again.
 
-IZHMA: Taktika Rail Cover has had damage bonus removed and has been given a +8 stability bonus instead.
+IZHMA: Taktika Rail Cover has had the damage bonus removed and has been given a +8 stability bonus instead.
 
 Why?: The IZHMA being a one shotting machine makes it stupidly overpowered, especially with the DRF changes. It basically never runs out of ammo and slays everything. We also plan to change the VD-12 in the future for the same reason. 
 
