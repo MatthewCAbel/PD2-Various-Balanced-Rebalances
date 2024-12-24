@@ -14,7 +14,7 @@ Why: This change was done to give pistols more practical use as sidearms while s
 
 Snipers: 168 firerate has been buffed to 180. Lebensauger has been changed to be a middle ground between Contractor and Grom.
 
-Why?: This is to compensate for the graze changes in this mod. It keeps DPS higher without making them too strong. Lebensauger has been set to be in the middle of the grom and contractor instead of being an updgrade to either of them.
+Why?: This is to compensate for the graze changes in this mod. It keeps DPS higher without making them too strong. Lebensauger has been set to be a middle ground to the grom and contractor stat wise to keep the 168s similarly powerful.
 
 # Skills
 
