@@ -8,7 +8,7 @@ Assault Rifles: Lion's Roar's damage has been reduced to 67, pickup and and max 
 
 Why?: The Lion's Roar was very overtuned by Overkill when they buffed it, this change is to get it more in line with other weapons in the class, rather than being objectively better. It can still hit 2 shot heavy with a compensator so we believe this gives it a nice niche
 
-Pistols: High damage pistols have been massively reworked, the pistols have had their ROFs, ammo counts and mag size reduced, but have been given a one shot heavy breakpoint. Their pickups have been changed to compensate for this. Revolvers have been changed into a spammier option with worse stats, but they still reach the heavy one shot.
+Pistols: High damage pistols have been massively reworked to give them a more interesting role, the pistols have had their ROFs, ammo counts and mag size reduced, but have been given a one shot heavy breakpoint. Their pickups have been changed to compensate for this. Revolvers have been changed into a spammier option with worse stats, but they still reach the heavy one shot. This was done to create new build dynamics and give people more options for what they use as a sidearm.
 
 Why: This change was done to give pistols more practical use as sidearms while still being useable in dedicated pistol builds, They can now be used as heavy one tapping side arms. Their ROFs have been reduced so that they can't be spammed as hard, and their mag size and ammo counts have been massively reduced. Their pickups are also fairly implemented so you still need to aim well to maintain ammo.
 
