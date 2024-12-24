@@ -6,7 +6,7 @@ Why?: Pump shotguns have always been very hard to use as their pickups are incre
 
 Assault Rifles: Lion's Roar's damage has been reduced to 67, pickup and and max ammo have been reduced slightly. ROF has been reduced to 800.
 
-Why?: The Lion's Roar was very overtuned by Overkill when they buffed it, this change is to get it more in line with other weapons in the class, rather than being objectively better. It can still hit 2 shot heavy with a compensator.
+Why?: The Lion's Roar was very overtuned by Overkill when they buffed it, this change is to get it more in line with other weapons in the class, rather than being objectively better. It can still hit 2 shot heavy with a compensator so we believe this gives it a nice niche.
 
 # Skills
 
