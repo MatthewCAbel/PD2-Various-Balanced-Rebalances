@@ -1,6 +1,6 @@
 # Weapons
 
-Pump Shotguns: Pickups have been massively buffed to get them on par with the M1014 and Predator.
+Mid to High Damage Shotguns: Pickups have been massively buffed to get them on par with the M1014 and Predator.
 
 Why?: Pump shotguns have always been very hard to use as their pickups are incredibly lackluster and their DPS isn't good enough to justify this. The M10 and Pred have always pretty much been straight upgrades. This change is to get the shotguns more in line with each other to enable more variety.
 
