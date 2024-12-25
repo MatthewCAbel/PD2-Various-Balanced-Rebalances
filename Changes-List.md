@@ -26,7 +26,7 @@ Why?: We tried to make the Lebensauger a middle ground between the Contractor an
 
 DRF has been completely removed.
 
-Why?: The changes overkill made with it added were completely unnecessary and all it does is make stuff like shotguns and SMGs more annoying to use. We may go back to it in the future to see if we can do something interesting with it. As of now, we have decided to completely remove it.
+Why?: The changes overkill made with it added were completely unnecessary and all it does is make stuff like shotguns and SMGs more annoying to use, while buffing guns that don't need it such as snipers. We may go back to it in the future to see if we can do something interesting with it. As of now, we have decided to completely remove it.
 
 # Skills
 
