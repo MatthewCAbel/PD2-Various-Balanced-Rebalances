@@ -20,7 +20,7 @@ Pistols: High damage pistols have been massively reworked to give them a more in
 
 Why: This change was done to give pistols more practical use as sidearms while still being useable in dedicated pistol builds, They can now be used as heavy one tapping side arms. Their ROFs have been reduced so that they can't be spammed as hard, and their mag size and ammo counts have been massively reduced. Their pickups are also fairly implemented so you still need to aim well to maintain ammo.
 
-Snipers: Lebensauger has been given 48 total ammo and 48 max ammo. Ammo pickup has been reverted to pre-buff stat.
+Snipers: Lebensauger has been given 12 in the mag and 48 max ammo. Ammo pickup has been reverted to pre-buff stat.
 
 Why?: We tried to make the Lebensauger a middle ground between the Contractor and Grom.
 
