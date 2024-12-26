@@ -22,7 +22,7 @@ Why: This change was done to give pistols more practical use as sidearms while s
 
 Snipers: Lebensauger has been given 12 in the mag and 48 max ammo. Ammo pickup has been reverted to pre-buff stat.
 
-Why?: We tried to make the Lebensauger a middle ground between the Contractor and Grom.
+Why?: We tried to make the Lebensauger a nice middle ground between the Contractor and Grom in terms of ammo rather than basically being a grom.
 
 DRF has been completely removed.
 
