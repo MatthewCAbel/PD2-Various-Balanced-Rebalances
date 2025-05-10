@@ -34,10 +34,6 @@ Confident and Stockholm Syndrome have switched spots.
 
 Why?: Two converts are incredibly strong for a tier 2 skill and stockholm syndrome isn't so good in comparison. This changes them around to make two converts harder to obtain to make up for the huge amount of targetting they soak up.
 
-Graze: Damage on ace skill has been reduced to 75%
-
-Why?: Graze is an incredibly strong skill as it can wipe out entire rows of cops with a single click. This skill is to reduce the power it has by making it so you need to effectively prioritize targets or shoot multiple times to kill groups. It will also still provide stagger when hitting so it can still be used effectively with this change. 
-
 Ammo Specialist tree: Extra Lead is now tier 2, Fully Loaded is now tier 3 and Bulletstorm is now tier 4.
 
 Why?: Bulletstorm is far too powerful for a tier 2 skill, it gives you minutes of infinite ammo for practically nothing. We believe it fits much better as the tier 4 of the tree. Extra Lead has been placed at tier 2 as we believe it is arguably the least powerful skill in the tree and that it works well as the tier 2. Fully Loaded works incredibly well as the tier 3 skill. It gives you a nice boost to pick up and it helps with a lot of loadouts such as DMRs.
