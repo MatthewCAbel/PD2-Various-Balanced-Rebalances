@@ -4,7 +4,7 @@ Mid to High Damage Shotguns: Pickups have been massively buffed to get them on p
 
 Why?: Pump shotguns have always been very hard to use as their pickups are incredibly lackluster and their DPS isn't good enough to justify this. The M10 and Pred have always pretty much been straight upgrades. This change is to get the shotguns more in line with each other to enable more variety.
 
-All of the shotgun nerf since 2021 have been reverted (minus the dragon's breath nerf).
+All of the shotgun nerfs since 2021 have been reverted (minus the dragon's breath nerf).
 
 Why?: Shotguns were never overpowered and these changes just made them less fun to use. These have all been reverted to make shotguns fun to use again.
 
