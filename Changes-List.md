@@ -38,7 +38,7 @@ Ammo Specialist tree: Extra Lead is now tier 2, Fully Loaded is now tier 3 and B
 
 Why?: Bulletstorm is far too powerful for a tier 2 skill, it gives you minutes of infinite ammo for practically nothing. We believe it fits much better as the tier 4 of the tree. Extra Lead has been placed at tier 2 as we believe it is arguably the least powerful skill in the tree and that it works well as the tier 2. Fully Loaded works incredibly well as the tier 3 skill. It gives you a nice boost to pick up and it helps with a lot of loadouts such as DMRs.
 
-Graze has been changed to the skill Mind Blown (created by Hoppip: https://modworkshop.net/mod/22193 https://github.com/segabl/pd2-mind-blown) This mod changes graze to a chaining effect, affecting enemies up to 5 times when aced.
+Graze has been changed to the skill Mind Blown (created by Hoppip: https://modworkshop.net/mod/22193 https://github.com/segabl/pd2-mind-blown) This mod changes graze to a chaining effect, affecting enemies up to 3 times when aced.
 
 Why?: Vanilla Graze is incredibly opressive and can hold down entire maps with ease. Previous attempts at changing graze involved changing how much damage the skill does, but I though this really made snipers unfun to use as their killing power was greatly reduced. I believe this change will keep the skill relevant while still maintaining the fun of snipers as it keeps them in check while still allowing them to excel if you can aim well.
 
