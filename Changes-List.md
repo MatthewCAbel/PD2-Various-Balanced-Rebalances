@@ -40,7 +40,7 @@ Why?: Bulletstorm is far too powerful for a tier 2 skill, it gives you minutes o
 
 Graze has been changed to the skill Mind Blown (created by Hoppip: https://modworkshop.net/mod/22193 https://github.com/segabl/pd2-mind-blown) This mod changes graze to a chaining effect, affecting enemies up to 3 times when aced.
 
-Why?: Vanilla Graze is incredibly opressive and can hold down entire maps with ease. Previous attempts at changing graze involved changing how much damage the skill does, but I though this really made snipers unfun to use as their killing power was greatly reduced. I believe this change will keep the skill relevant while still maintaining the fun of snipers as it keeps them in check while still allowing them to excel if you can aim well.
+Why?: Vanilla Graze is incredibly opressive and can hold down entire maps with ease. Previous attempts at changing graze involved changing how much damage the skill does, but I though this really made snipers unfun to use as their killing power was greatly reduced. I believe this change will keep the skill relevant while still maintaining the fun of snipers and keeping their power in check.
 
 # Enemies 
 
