@@ -42,6 +42,10 @@ Graze has been changed to the skill Mind Blown (created by Hoppip: https://modwo
 
 Why?: Vanilla Graze is incredibly opressive and can hold down entire maps with ease. Previous attempts at changing graze involved changing how much damage the skill does, but I though this really made snipers unfun to use as their killing power was greatly reduced. I believe this change will keep the skill relevant while still maintaining the fun of snipers and keeping their power in check.
 
+Holographic sight and Compact Holographic sight have been changed to -1 concealment.
+
+Why?: There was pretty much no reason for these sights to be -2 instead of -1 concealment, and it just makes it so you can't use them in a lot of loadouts.
+
 # Enemies 
 
 Tasers and shields have had their damages reverted to before 240.3.
