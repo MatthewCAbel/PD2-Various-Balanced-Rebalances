@@ -46,6 +46,10 @@ Holographic sight and Compact Holographic sight have been changed to -1 concealm
 
 Why?: There was pretty much no reason for these sights to be -2 instead of -1 concealment, and it just makes it so you can't use them in a lot of loadouts.
 
+The JP36 and Commando 553 have had their accuracy and concealment adjusted to be more competitive with other assault rifles.
+
+Why?: The JP and Commando's stats are very low compared to other ARs for seemingly no real reason, their accuracy and concealment in specific are terrible compared to most other guns. I have buffed these to make them more viable options in comparison.
+
 # Enemies 
 
 Tasers and shields have had their damages reverted to before 240.3.
